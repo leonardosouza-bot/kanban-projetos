@@ -19,10 +19,10 @@ st.title("Kanban Projetos")
 # =========================
 
 DIAGRAMADORES = [
-    "Alessandro","Alisson","Antony","Claudênio","Danielly",
+    "Alessandro","Alisson","Antony","Claudenio","Danielly",
     "Francisco","Jonysson","Juliano","Leandro","Marianna",
-    "Mayck","Nayara","Tainá","Thaís","Thatiane","Alex",
-    "Ismaela","Rafael","Antônio","César","Fernanda","Marcos","Mauricio"
+    "Mayck","Nayara","Taina","Thais","Thatiane","Alex",
+    "Ismaela","Rafael","Antonio","Cesar","Fernanda","Marcos","Mauricio"
 ]
 
 PROJETOS = [
@@ -33,26 +33,26 @@ PROJETOS = [
 ]
 
 DISCIPLINAS = [
-    "Matemática",
-    "Português",
-    "História",
+    "Matematica",
+    "Portugues",
+    "Historia",
     "DisciplinaTESTE",
     "Geografia",
-    "Ciências",
-    "Inglês"
+    "Ciencias",
+    "Ingles"
 ]
 
 ANOS = [
-    "1º Ano",
-    "2º Ano",
-    "3º Ano"
+    "1 Ano",
+    "2 Ano",
+    "3 Ano"
 ]
 
 MODULOS = [
-    "Módulo 1",
-    "Módulo 2",
-    "Módulo 3",
-    "Módulo 4"
+    "Modulo 1",
+    "Modulo 2",
+    "Modulo 3",
+    "Modulo 4"
 ]
 
 # =========================
