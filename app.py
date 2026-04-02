@@ -26,10 +26,10 @@ DIAGRAMADORES = [
 ]
 
 PROJETOS = [
-    "Núcleo 1 - Basis",
-    "Núcleo 2 - Mundus E/N",
-    "Núcleo 3 - Mundus H/L",
-    "Núcleo 6 - Ludus"
+    "Nucleo 1 - Basis",
+    "Nucleo 2 - Mundus E/N",
+    "Nucleo 3 - Mundus H/L",
+    "Nucleo 6 - Ludus"
 ]
 
 DISCIPLINAS = [
