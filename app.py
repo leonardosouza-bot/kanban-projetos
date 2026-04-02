@@ -36,6 +36,7 @@ DISCIPLINAS = [
     "Matemática",
     "Português",
     "História",
+    "DisciplinaTESTE",
     "Geografia",
     "Ciências",
     "Inglês"
@@ -60,10 +61,11 @@ MODULOS = [
 
 def get_connection():
     return psycopg2.connect(
-        host=os.getenv("DB_HOST"),
-        database=os.getenv("DB_NAME"),
-        user=os.getenv("DB_USER"),
-        password=os.getenv("DB_PASSWORD")
+        host="dpg-d76ld9fpm1nc7398k9a0-a.virginia-postgres.render.com",
+        database="kanbandiagramacao",
+        user="kanban_user",
+        password="RwOTyHs72w8u5rm81QJOVUn29uuZkIDA",
+        port=5432
     )
 
 def criar_tabela():
